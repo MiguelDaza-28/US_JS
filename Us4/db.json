@@ -1,0 +1,15 @@
+{
+  "productos": [
+    {
+      "nombre": "tv",
+      "precio": 200,
+      "id": "_4gFuJ5oPL8"
+    },
+    {
+      "nombre": "Miguel",
+      "precio": 333,
+      "id": "Hd2gWFsSRvY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
